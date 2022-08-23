@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm haciyatmaz</h1>
 
-# 💫 About Me:
+<!-- # 💫 About Me:
 🔭 I’m currently working on **TestNets**<br>
 🌱 I’m currently learning **C++, Go, blockchains,**<br>
 📫 How to reach me **[Telegram](https://t.me/haciyatmaz)**<br>⚡⚡⚡
+-->
+
 
 
 ## 🌐 Socials:
