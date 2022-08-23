@@ -1,7 +1,6 @@
+# 💫 About Me:
 <h1 align="center">Hi 👋, I'm haciyatmaz</h1>
 <h3 align="center">Merhaba from Türkiye</h3>
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
@@ -30,6 +29,7 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/haciyatmaz) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/haciyatmaz) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
   
 
 
