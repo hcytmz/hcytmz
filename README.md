@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm haciyatmaz</h1>
+<h1 align="center">Hi, I'm haciyatmaz :vulcan_salute:</h1>
 
 <!--
 # 💫 About Me:
